@@ -437,6 +437,7 @@ nav ul li a:hover {
 .main__content p{
     margin-top: 1rem;
     font-size: 2rem;
+    max-width: 1300px;
     font-weight: 700;
     margin-top: 1rem;
     font-size: 2rem;
